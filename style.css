@@ -1,0 +1,18 @@
+body{
+    font-family: 'Yeon Sung', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: blue;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 3%;
+    padding: 1%;
+}
+.half-width img{
+    width: 100%;
+}
