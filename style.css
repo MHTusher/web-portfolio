@@ -5,7 +5,16 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
+h3{
+    color: lightseagreen;
+}
 .name-highlight{
+    color: blue;
+}
+.name-colored{
     color: blue;
 }
 .half-width{
@@ -32,4 +41,9 @@ section{
     border-radius: 10px;
     color: purple;
     font-weight: 700;
+}
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
